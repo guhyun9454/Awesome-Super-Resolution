@@ -37,7 +37,7 @@ More years papers, plase check Quick navigation
 |Efficient Non-Local Contrastive Attention for Image Super-Resolution | ENLCA | [arxiv](https://arxiv.org/pdf/2201.03794.pdf) | - |SISR |
 |Revisiting L1 Loss in Super-Resolution: A Probabilistic View and Beyond | - | [arxiv](https://arxiv.org/pdf/2201.10084.pdf) | - |SISR, posterior Gaussian distribution, replace L1 loss |
 |Scale-arbitrary Invertible Image Downscaling | AIDN | [arxiv](https://arxiv.org/pdf/2201.12576.pdf) | - |***Image Rescaling***, Conditional Resampling Module |
-|VRT: A Video Restoration Transformer | VRT | [arxiv](https://arxiv.org/pdf/2201.12288.pdf) | [code](https://github.com/JingyunLiang/VRT) |***VideoSR***, Video Restoration Transformer, temporal mutual self attention and parallel warping |
+|VRT: A Video Restoration Transformer | VRT | [arxiv](https://arxiv.org/pdf/2201.12288.pdf) | [code](https://github.com/JingyunLiang/VRT) | ✅ [report](survey/papers/vrt.md) |
 |Fast Online Video Super-Resolution with Deformable Attention Pyramid | DAP | [arxiv](https://arxiv.org/pdf/2202.01731.pdf) | - |***VideoSR***, fast, deformable attention pyramid |
 |Revisiting RCAN: Improved Training for Image Super-Resolution | RCAN-it | [arxiv](https://arxiv.org/pdf/2201.11279.pdf) | [code](https://github.com/zudi-lin/rcan-it) |SISR, train tricks |
 |Towards Bidirectional Arbitrary Image Rescaling: Joint Optimization and Cycle Idempotence  | BAIRNet | [arxiv](https://arxiv.org/pdf/2203.00911.pdf) | - |Image Rescaling,  be robust in cycle idempotence test|
@@ -63,7 +63,7 @@ More years papers, plase check Quick navigation
 |A New Dataset and Transformer for Stereoscopic Video Super-Resolution| Trans-SVSR | [CVPR2022](https://arxiv.org/pdf/2204.10039.pdf) | [code](https://github.com/H-deep/Trans-SVSR/) | Stereo video super-resolution|
 |Accelerating the Training of Video Super-Resolution| - | [arxiv](https://arxiv.org/pdf/2205.05069.pdf) | [code](https://github.com/TencentARC/Efficient-VSR-Training) |  ***VideoSR***, 6.2× speedup in wall-clock training time|
 |Metric Learning based Interactive Modulation for Real-World Super-Resolution| MM-RealSR | [arxiv](https://arxiv.org/pdf/2205.05065.pdf) | [code](https://github.com/TencentARC/MM-RealSR) | Metric Learning based Interactive Modulation |
-|Activating More Pixels in Image Super-Resolution Transformer | HAT |[arxiv](https://arxiv.org/pdf/2205.04437.pdf) | [code](https://github.com/chxy95/HAT) | SISR,SOTA,  Hybrid Attention Transformer,  more than 1dB |
+|Activating More Pixels in Image Super-Resolution Transformer | HAT |[arxiv](https://arxiv.org/pdf/2205.04437.pdf) | [code](https://github.com/chxy95/HAT) | ✅ [report](survey/papers/hat.md) |
 |SPQE: Structure-and-Perception-Based Quality Evaluation for Image Super-Resolution | - |[arxiv](https://arxiv.org/pdf/2205.03584.pdf) |-  | SR-IQA |
 |Spatial-Temporal Space Hand-in-Hand:Spatial-Temporal Video Super-Resolution via Cycle-Projected Mutual Learning | CycMu-Net  |[arxiv](https://arxiv.org/pdf/2205.05264.pdf) |[code](https://github.com/hhhhhumengshun/CycMuNet)  | ***ST-VideoSR***,Cycle-Projected Mutual Learning |
 |RepSR: Training Efficient VGG-style Super-Resolution Networks with Structural Re-Parameterization and Batch Normalization |RepSR  |[arxiv](https://arxiv.org/pdf/2205.05671.pdf) |[code](https://github.com/TencentARC/RepSR)  | Efficient SISR, lightweight, VGG-like, Structural Re-Parameterization and Batch Normalization|

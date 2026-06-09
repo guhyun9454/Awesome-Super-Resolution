@@ -91,7 +91,7 @@ More years papers, plase check Quick navigation
 |RAMiT: Reciprocal Attention Mixing Transformer for Lightweight Image Restoration | RAMiT | [arxiv](https://arxiv.org/pdf/2305.11474.pdf) | - | LightweightSR |
 |Efficient Mixed Transformer for Single Image Super-Resolution | EMT | [arxiv](https://arxiv.org/pdf/2305.11403.pdf) | [code](https://github.com/Fried-Rice-Lab/EMT) | SISR |
 |Denoising Diffusion Models for Plug-and-Play Image Restoration | DiffPIR | [arxiv](https://arxiv.org/pdf/2305.08995.pdf) | [code](https://github.com/yuanzhi-zhu/DiffPIR) |  |
-|Exploiting Diffusion Prior for Real-World Image Super-Resolution | StableSR | [arxiv](https://arxiv.org/pdf/2305.07015.pdf) | [code](https://github.com/IceClear/StableSR) |  realsr |
+|Exploiting Diffusion Prior for Real-World Image Super-Resolution | StableSR | [arxiv](https://arxiv.org/pdf/2305.07015.pdf) | [code](https://github.com/IceClear/StableSR) | ✅ [report](survey/papers/stablesr.md) |
 |Distribution-Flexible Subset Quantization for Post-Quantizing Super-Resolution Networks | DFSQ | [arxiv](https://arxiv.org/pdf/2305.05888.pdf) | [code](https://github.com/zysxmu/DFSQ) |  Post-Quantize |
 |Hybrid Transformer and CNN Attention Network for Stereo Image Super-resolution | - | [arxiv](https://arxiv.org/pdf/2305.05177.pdf) | - |  Stereo SR |
 |Accelerating Diffusion Models for Inverse Problems through Shortcut Sampling | SSD | [arxiv](https://arxiv.org/pdf/2305.16965.pdf) | [code](https://github.com/GongyeLiu/SSD) |  |
@@ -101,7 +101,7 @@ More years papers, plase check Quick navigation
 |HQ-50K: A Large-scale, High-quality Dataset for Image Restoration  | DAMoE | [arxiv](https://arxiv.org/pdf/2307.02457.pdf) | [code](https://github.com/littleYaang/HQ-50K) | Dataset|
 |RefVSR++: Exploiting Reference Inputs for Reference-based Video Super-resolution | RefVSR++ | [arxiv](https://arxiv.org/pdf/2307.02897.pdf) | - | RefVSR|
 |SRFormer: Permuted Self-Attention for Single Image Super-Resolution | SRFormer | [ICCV2023](https://arxiv.org/pdf/2303.09735.pdf) | [code](https://github.com/HVision-NKU/SRFormer) | SISR.SOTA |
-|ResShift: Efficient Diffusion Model for Image Super-resolution by Residual Shifting | ResShift | [arxiv](https://arxiv.org/pdf/2307.12348.pdf) | [code](https://github.com/zsyOAOA/ResShift) |  |
+|ResShift: Efficient Diffusion Model for Image Super-resolution by Residual Shifting | ResShift | [arxiv](https://arxiv.org/pdf/2307.12348.pdf) | [code](https://github.com/zsyOAOA/ResShift) | ✅ [report](survey/papers/resshift.md) |
 |Overcoming Distribution Mismatch in Quantizing Image Super-Resolution Networks | ODM | [arxiv](https://arxiv.org/pdf/2307.13337.pdf) | [code](https://github.com/Cheeun/ODM) | Quantize  |
 |Feature Modulation Transformer: Cross-Refinement of Global Representation via High-Frequency Prior for Image Super-Resolution | CRAFT | [ICCV2023](https://arxiv.org/pdf/2308.05022.pdf) | [code](https://github.com/AVC2-UESTC/CRAFT-SR) | SISR  |
 |RBSR: Efficient and Flexible Recurrent Network for Burst Super-Resolution | RBSR | [arxiv](https://arxiv.org/pdf/2306.17595) | [code](https://github.com/ZcsrenlongZ/RBSR) |   |
